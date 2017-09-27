@@ -1,5 +1,7 @@
 # README
 
+[![Video](http://img.youtube.com/vi/wVyE99zNI9k/0.jpg)](http://www.youtube.com/watch?v=wVyE99zNI9k)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
